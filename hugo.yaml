@@ -56,7 +56,7 @@ params:
   description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
   author: Clsout
   defaultTheme: dark # 默认是暗色背景
-  ShowShareButtons: false # 关闭分享的按钮
+  ShowShareButtons: true # 关闭分享的按钮
   ShowReadingTime: true # 展示预估的阅读时长
   displayFullLangName: true # 展示全名
   ShowPostNavLinks: true # 展示文章导航链接，就是下一页上一页的那个
@@ -69,6 +69,10 @@ params:
   comments: true # 评论
   images: ["https://i.postimg.cc/7hwBy7VS/calcr.png"] # 缺省的图片，比如，博客的封面
   DateFormat: "2006-01-02" # 这个时间是作者自己写的，只能这样写
+
+
+  # 配置 Open Graph
+  images: ["https://amown.cn/memos.jpg"]  # 默认分享缩略图（需放在 static/ 目录）
 
   # 首页的文章上方的一些信息
   homeInfoParams:
