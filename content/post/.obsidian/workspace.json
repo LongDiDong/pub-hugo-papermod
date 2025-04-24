@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b71f0a10497efe71",
+        "id": "438216203fc14dd1",
         "type": "tabs",
         "children": [
           {
-            "id": "ba86daae12a65e27",
+            "id": "b8cd188ca0c51454",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -179,9 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ba86daae12a65e27",
+  "active": "b8cd188ca0c51454",
   "lastOpenFiles": [
-    "search.md",
-    "first.md"
+    "hugo-journey.md",
+    "first.md",
+    "search.md"
   ]
 }

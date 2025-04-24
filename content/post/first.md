@@ -17,8 +17,14 @@ cover:
 
 ## test
 
+脚注{{< sidenote >}}这是一个脚注测试{{< /sidenote >}}
+
+
+一段中文和English的测试
+
+
  行内数学公式：$a^2 + b^2 = c^2$。
- 
+
  块公式，
  
  $$
@@ -31,6 +37,8 @@ $$
 $$
 </div>
 
+
+{{< collapse summary=示例代码 >}}
 ```c
 int i;
 for(i= 0; i < 5;i++)
@@ -38,3 +46,5 @@ for(i= 0; i < 5;i++)
 
 }
 ```
+
+{{< /collapse >}}

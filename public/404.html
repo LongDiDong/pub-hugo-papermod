@@ -10,7 +10,7 @@
 <meta name="description" content="Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod">
 <meta name="author" content="Clsout">
 <link rel="canonical" href="http://localhost:1313/404.html">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.d46151ba98c78d5b0405ae653d47300240a1c57268440feae396c037d6b5ddc5.css" integrity="sha256-1GFRupjHjVsEBa5lPUcwAkChxXJoRA/q45bAN9a13cU=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.3c359d19f8eae7546583aff54063b8d7ea776839c7287afe13f92091c272661d.css" integrity="sha256-PDWdGfjq51Rlg6/1QGO41&#43;p3aDnHKHr&#43;E/kgkcJyZh0=" rel="preload stylesheet" as="style">
 <link rel="icon" href="http://localhost:1313/favicon.png">
 <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon.png">
@@ -173,6 +173,24 @@ code.has-jax {
   crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
 <script>
+  (function (u, c) {
+    var d = document,
+      t = "script",
+      o = d.createElement(t),
+      s = d.getElementsByTagName(t)[0];
+    o.src = u;
+    if (c) {
+      o.addEventListener("load", function (e) {
+        c(e);
+      });
+    }
+    s.parentNode.insertBefore(o, s);
+  })("\/js\/pangu.min.js", function () {
+    pangu.spacingPage();
+  });
+</script>
+
+<script>
   var OSName = "unknown";
   var navApp = navigator.userAgent.toLowerCase();
   switch (true) {
@@ -204,7 +222,11 @@ code.has-jax {
   if (OSName == "windows") {
     document.body.className += ' win11'
   }
+
 </script>
+
+
+
 
 
 <script>

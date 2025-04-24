@@ -5,6 +5,26 @@
   integrity="sha512-9ZKhgaFdKlsELap/dGw3Iaz5Bj+Las0XXZiRKYZaN9QArg6FtkD5rULNmNH4rTCTFxjPiBGr3MX8smRADRorDA=="
   crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
+{{- $highlight := resources.Get "js/pangu.min.js" }}
+
+<script>
+  (function (u, c) {
+    var d = document,
+      t = "script",
+      o = d.createElement(t),
+      s = d.getElementsByTagName(t)[0];
+    o.src = u;
+    if (c) {
+      o.addEventListener("load", function (e) {
+        c(e);
+      });
+    }
+    s.parentNode.insertBefore(o, s);
+  })("{{ $highlight.RelPermalink }}", function () {
+    pangu.spacingPage();
+  });
+</script>
+
 <script>
   var OSName = "unknown";
   var navApp = navigator.userAgent.toLowerCase();
@@ -37,4 +57,8 @@
   if (OSName == "windows") {
     document.body.className += ' win11'
   }
+
 </script>
+
+
+
