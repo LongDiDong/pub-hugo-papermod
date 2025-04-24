@@ -4,17 +4,46 @@
     <title>通用技术 on 云崖小栈</title>
     <link>http://localhost:1313/categories/%E9%80%9A%E7%94%A8%E6%8A%80%E6%9C%AF/</link>
     <description>Recent content in 通用技术 on 云崖小栈</description>
+    <image>
+      <title>云崖小栈</title>
+      <url>https://amown.cn/PicGo/cover.png</url>
+      <link>https://amown.cn/PicGo/cover.png</link>
+    </image>
     <generator>Hugo -- 0.146.7</generator>
     <language>zh</language>
     <copyright>©2025 云崖小栈</copyright>
-    <lastBuildDate>Sun, 04 Aug 2024 03:25:53 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/%E9%80%9A%E7%94%A8%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hugo &#43; PaperMod &#43; Github Pages 搭建一个完善的个人博客(以 Windows11 为例)</title>
+      <title>first</title>
       <link>http://localhost:1313/post/first/</link>
-      <pubDate>Sun, 04 Aug 2024 03:25:53 +0800</pubDate>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/first/</guid>
-      <description>&lt;h2 id=&#34;test&#34;&gt;test&lt;/h2&gt;</description>
+      <description>&lt;h1 id=&#34;first&#34;&gt;first&lt;/h1&gt;
+&lt;h2 id=&#34;test&#34;&gt;test&lt;/h2&gt;
+&lt;p&gt;脚注&lt;span class=&#34;sidenote-number&#34;&gt;&lt;small class=&#34;sidenote&#34;&gt;这是一个脚注测试&lt;/small&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;一段中文和English的测试&lt;/p&gt;
+&lt;p&gt;行内数学公式：$a^2 + b^2 = c^2$。&lt;/p&gt;
+&lt;p&gt;块公式，&lt;/p&gt;
+&lt;p&gt;$$
+a^2 + b^2 = c^2
+$$&lt;/p&gt;
+ &lt;div&gt;
+$$
+\boldsymbol{x}_{i+1}+\boldsymbol{x}_{i+2}=\boldsymbol{x}_{i+3}
+$$
+&lt;/div&gt;
+
+
+&lt;p&gt;&lt;details &gt;
+  &lt;summary markdown=&#34;span&#34;&gt;示例代码&lt;/summary&gt;
+  &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-c&#34; data-lang=&#34;c&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;for&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;++&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;4&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/details&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
