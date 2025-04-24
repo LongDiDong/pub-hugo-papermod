@@ -1,11 +1,10 @@
 ---
 title: Hugo + PaperMod + Github Pages 搭建一个完善的个人博客(以 Windows11 为例)
-date: 2025-04-23
-categories:
-  - 通用技术
 tags:
   - 博客搭建
   - Bilibili
+date modified: 2025-04-24
+date: 2025-04-24
 cover:
   image: "<https://amown.cn/PicGo/cover.png>"
   # can also paste direct link from external site
@@ -13,6 +12,8 @@ cover:
   alt: "<alt text>"
   caption: "text"
   relative: false # To use relative path for cover image, used in hugo Page-bundles
+categories:
+  - 通用技术
 ---
 
 ## test
@@ -21,6 +22,8 @@ cover:
 
 
 一段中文和English的测试
+
+
 
 
  行内数学公式：$a^2 + b^2 = c^2$。

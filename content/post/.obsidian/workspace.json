@@ -176,13 +176,21 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "b8cd188ca0c51454",
   "lastOpenFiles": [
-    "hugo-journey.md",
+    "2.中医/1.倪海厦/针灸大成/人纪——针灸网友笔记.md",
+    "2.中医/1.倪海厦/倪海厦体系顺序.md",
+    "2.中医/书/中医学习顺序.md",
     "first.md",
+    "2.中医/1.倪海厦/针灸大成",
+    "2.中医/书",
+    "2.中医/1.倪海厦",
+    "2.中医",
+    "hugo-journey.md",
     "search.md"
   ]
 }
