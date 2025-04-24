@@ -8,20 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b8cd188ca0c51454",
+            "id": "8cbb39ff29760515",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "first.md",
+                "file": "1.古文观止笔记/0.先秦诸国资料/郑国.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "郑国"
+            }
+          },
+          {
+            "id": "d80176a95ea4ae91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.古文观止笔记/0.先秦诸国资料/郑国.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "first"
+              "title": "郑国"
+            }
+          },
+          {
+            "id": "0aa21d3aed8aef41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.古文观止笔记/古文观止笔记总览.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "古文观止笔记总览"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "first.md",
+                "file": "1.古文观止笔记/古文观止笔记总览.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "first 的反向链接列表"
+              "title": "古文观止笔记总览 的反向链接列表"
             }
           },
           {
@@ -142,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "first.md",
+                "file": "1.古文观止笔记/古文观止笔记总览.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "first 的大纲"
+              "title": "古文观止笔记总览 的大纲"
             }
           },
           {
@@ -180,17 +209,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b8cd188ca0c51454",
+  "active": "b160cd8606587694",
   "lastOpenFiles": [
-    "2.中医/1.倪海厦/针灸大成/人纪——针灸网友笔记.md",
+    "1.古文观止笔记/古文批量脚注-VSCode正则表达式+分段查找.md",
+    "first.md",
+    "1.古文观止笔记/古文观止笔记总览.md",
     "2.中医/1.倪海厦/倪海厦体系顺序.md",
     "2.中医/书/中医学习顺序.md",
-    "first.md",
+    "2.中医/1.倪海厦/针灸大成/人纪——针灸网友笔记.md",
+    "1.古文观止笔记/0.先秦诸国资料/郑国.md",
+    "1.古文观止笔记/0.先秦诸国资料/虞国.md",
+    "1.古文观止笔记/0.先秦诸国资料/许国.md",
+    "1.古文观止笔记/0.先秦诸国资料/息国.md",
+    "1.古文观止笔记/0.先秦诸国资料/卫国.md",
+    "1.古文观止笔记/0.先秦诸国资料/随国.md",
+    "1.古文观止笔记/0.先秦诸国资料/宋国.md",
+    "1.古文观止笔记/0.先秦诸国资料/秦国.md",
+    "1.古文观止笔记/0.先秦诸国资料/齐国.md",
+    "1.古文观止笔记/0.先秦诸国资料/鲁国.md",
+    "1.古文观止笔记/0.先秦诸国资料/晋国.md",
+    "1.古文观止笔记/0.先秦诸国资料/虢国.md",
+    "1.古文观止笔记/0.先秦诸国资料/郜国.md",
+    "1.古文观止笔记/0.先秦诸国资料/楚国.md",
+    "1.古文观止笔记/0.先秦诸国资料/陈国.md",
+    "1.古文观止笔记/0.先秦诸国资料/蔡国.md",
+    "1.古文观止笔记/3.卷三章节卡片/1、祭公谏征犬戎.md",
+    "1.古文观止笔记/0.古文观止笔记总览.md",
+    "1.古文观止笔记/2.卷二章节卡片/16、吴许越成.md",
+    "1.古文观止笔记/2.卷二章节卡片/15、子产论政宽猛.md",
+    "1.古文观止笔记/2.卷二章节卡片",
+    "2.卷二章节卡片",
+    "1.古文观止笔记/3.卷三章节卡片",
+    "1.古文观止笔记/1.卷一章节卡片",
+    "1.古文观止笔记/0.先秦诸国资料",
+    "1.古文观止笔记",
     "2.中医/1.倪海厦/针灸大成",
     "2.中医/书",
     "2.中医/1.倪海厦",
-    "2.中医",
-    "hugo-journey.md",
-    "search.md"
+    "2.中医"
   ]
 }

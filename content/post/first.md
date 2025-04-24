@@ -1,10 +1,15 @@
 ---
-title: Hugo + PaperMod + Github Pages 搭建一个完善的个人博客(以 Windows11 为例)
+title: first
+aliases:
+categories:
+  - 通用技术
 tags:
   - 博客搭建
   - Bilibili
-date modified: 2025-04-24
+description:
+author:
 date: 2025-04-24
+date modified: 2025-04-24
 cover:
   image: "<https://amown.cn/PicGo/cover.png>"
   # can also paste direct link from external site
@@ -12,9 +17,9 @@ cover:
   alt: "<alt text>"
   caption: "text"
   relative: false # To use relative path for cover image, used in hugo Page-bundles
-categories:
-  - 通用技术
 ---
+
+# first
 
 ## test
 

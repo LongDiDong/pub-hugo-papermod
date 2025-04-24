@@ -4,7 +4,7 @@
 baseURL: "https://pubpa.amown.cn/" # 主站的 URL
 title: 云崖小栈 # 站点标题
 copyright: "[©2025 云崖小栈](https://pubpa.amown.cn/)" # 网站的版权声明，通常显示在页脚
-
+pagination.pagerSize: 7 # 首页的分页大小
 theme: PaperMod # 主题
 languageCode: zh-cn # 语言
 
