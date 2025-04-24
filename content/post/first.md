@@ -6,7 +6,13 @@ categories:
 tags:
   - 博客搭建
   - Bilibili
-
+cover:
+  image: "<https://amown.cn/PicGo/cover.png>"
+  # can also paste direct link from external site
+  # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
+  alt: "<alt text>"
+  caption: "text"
+  relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
 
 ## test
