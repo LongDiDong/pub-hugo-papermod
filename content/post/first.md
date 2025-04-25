@@ -1,22 +1,20 @@
 ---
 title: first
-aliases:
+aliases: 
 categories:
   - 通用技术
 tags:
   - 博客搭建
-  - Bilibili
-description:
-author:
+description: 
+author: 
+image: 
 date: 2025-04-24
-date modified: 2025-04-24
+date modified: 2025-04-25
 cover:
-  image: "<https://amown.cn/PicGo/cover.png>"
-  # can also paste direct link from external site
-  # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
-  alt: "<alt text>"
-  caption: "text"
-  relative: false # To use relative path for cover image, used in hugo Page-bundles
+  image: <https://amown.cn/PicGo/cover.png>
+  alt: <alt text>
+  caption: text
+  relative: false
 ---
 
 # first

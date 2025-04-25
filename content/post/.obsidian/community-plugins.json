@@ -1,8 +1,8 @@
 [
-  "obsidian-git",
+  "dataview",
+  "quickadd",
   "obsidian-style-settings",
   "templater-obsidian",
-  "quickadd",
-  "dataview",
+  "obsidian-git",
   "obsidian-linter"
 ]

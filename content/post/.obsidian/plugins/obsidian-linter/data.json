@@ -32,7 +32,7 @@
     },
     "insert-yaml-attributes": {
       "enabled": true,
-      "text-to-insert": "title: \naliases: \ncategories: \ntags:  \nauthor: \ndate: \ndate modified: \n"
+      "text-to-insert": "title: \naliases: \ncategories: \ntags: \ndescription:\nauthor:  \nimage: \n"
     },
     "move-tags-to-yaml": {
       "enabled": false,
@@ -41,7 +41,7 @@
     },
     "remove-yaml-keys": {
       "enabled": false,
-      "yaml-keys-to-remove": "searchHidden"
+      "yaml-keys-to-remove": ""
     },
     "sort-yaml-array-values": {
       "enabled": false,
@@ -53,7 +53,7 @@
     },
     "yaml-key-sort": {
       "enabled": true,
-      "yaml-key-priority-sort-order": "title:\naliases:\ncategories:\ntags:\ndescription:\nauthor:\ndate:\ndate modified:",
+      "yaml-key-priority-sort-order": "title:\naliases:\ncategories:\ntags:\ndescription:\nauthor:\nimage: \ndate:\ndate modified:",
       "priority-keys-at-start-of-yaml": true,
       "yaml-sort-order-for-other-keys": "None"
     },
@@ -67,7 +67,7 @@
       "date-modified-source-of-truth": "file system",
       "format": "YYYY-MM-DD",
       "convert-to-utc": false,
-      "update-on-file-contents-updated": "after 5 seconds"
+      "update-on-file-contents-updated": "never"
     },
     "yaml-title": {
       "enabled": true,
@@ -168,7 +168,7 @@
       "style": "consistent"
     },
     "two-spaces-between-lines-with-content": {
-      "enabled": true,
+      "enabled": false,
       "line-break-indicator": "  "
     },
     "unordered-list-style": {
