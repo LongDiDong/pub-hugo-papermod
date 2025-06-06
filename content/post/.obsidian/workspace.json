@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "旅游攻略/杭州/杭州徒步-九溪至满觉陇.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:徒步",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
