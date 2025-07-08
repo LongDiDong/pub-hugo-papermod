@@ -1,12 +1,14 @@
 # ~~~~~~~~~
 # hugo 本身的配置
 # ~~~~~~~~~
-baseURL: "https://new.amown.cn/" # 主站的 URL
+baseURL: "https://pblog.amown.cn/" # 主站的 URL
 title: 云崖小栈 # 站点标题
-copyright: "[©2025 云崖小栈](https://new.amown.cn/)" # 网站的版权声明，通常显示在页脚
+copyright: "[©2025 云崖小栈](https://pblog.amown.cn/)" # 网站的版权声明，通常显示在页脚
 pagination.pagerSize: 7 # 首页的分页大小
 theme: PaperMod # 主题
 languageCode: zh-cn # 语言
+
+
 
 enableInlineShortcodes: true # shortcode，类似于模板变量，可以在写 markdown 的时候便捷地插入，官方文档中有一个视频讲的很通俗
 hasCJKLanguage: true # 是否有 CJK 的字符

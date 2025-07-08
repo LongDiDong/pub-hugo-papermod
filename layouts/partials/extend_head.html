@@ -9,3 +9,6 @@
 
 {{- /* Head custom content area end */ -}}
 
+{{ if hugo.IsProduction }}
+<script src="/_vercel/insights/script.js" defer></script>
+{{ end }}
