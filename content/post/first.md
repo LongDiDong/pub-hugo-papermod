@@ -9,7 +9,7 @@ description:
 author: 
 image: 
 date: 2025-04-24
-date modified: 2025-04-25
+date modified: 2025-07-09
 cover:
   image: <https://amown.cn/PicGo/cover.png>
   alt: <alt text>
@@ -47,9 +47,9 @@ $$
 {{< collapse summary=示例代码 >}}
 ```c
 int i;
-for(i= 0; i < 5;i++)
+for(i= 0; i < 5;)
 {
-
+	i++;
 }
 ```
 
