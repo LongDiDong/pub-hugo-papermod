@@ -4,7 +4,7 @@
       "src": "package.json",
       "use": "@vercel/hugo",
       "config": {
-        "hugoVersion": "0.124.1"
+        "hugoVersion": "0.146.7"
       }
     }
   ],
