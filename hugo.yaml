@@ -70,7 +70,7 @@ params:
   TocOpen: true # 是否目录默认展开
   comments: true # 评论
   #images: ["https://i.postimg.cc/7hwBy7VS/calcr.png"] # 缺省的图片，比如，博客的封面
-  images: ["https://amown.cn/PicGo/cover.png"]
+  images: ["https://b0e0872.webp.li/PicGo/cover.png"]
   #images:
    # - https://amown.cn/PicGo/cover.png
     #- https://i.postimg.cc/7hwBy7VS/calcr.png
