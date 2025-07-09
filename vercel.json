@@ -1,0 +1,14 @@
+{
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@vercel/hugo",
+      "config": {
+        "hugoVersion": "0.124.1"
+      }
+    }
+  ],
+  "speedInsights": {
+    "enabled": true
+  }
+}
