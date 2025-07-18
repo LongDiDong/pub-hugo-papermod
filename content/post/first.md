@@ -9,7 +9,7 @@ description:
 author: 
 image: 
 date: 2025-04-24
-date modified: 2025-07-09
+date modified: 2025-07-10
 cover:
   image: <https://amown.cn/PicGo/cover.png>
   alt: <alt text>
@@ -27,8 +27,6 @@ cover:
 一段中文和English的测试
 
 
-
-
  行内数学公式：$a^2 + b^2 = c^2$。
 
  块公式，
@@ -42,6 +40,7 @@ $$
 \boldsymbol{x}_{i+1}+\boldsymbol{x}_{i+2}=\boldsymbol{x}_{i+3}
 $$
 </div>
+
 
 
 {{< collapse summary=示例代码 >}}
