@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "旅游攻略/杭州/杭州徒步-于谦祠至满觉陇.md",
+                "file": "旅游攻略/成都/25十一成都+川西自驾攻略.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "杭州徒步-于谦祠至满觉陇"
+              "title": "25十一成都+川西自驾攻略"
             }
           }
         ],
@@ -185,6 +185,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -195,13 +196,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32f780bcd66a331b",
+  "active": "e6111e1aa3f14e0a",
   "lastOpenFiles": [
+    "旅游攻略/成都/25十一成都+川西自驾Todo List.md",
+    "旅游攻略/成都/25十一成都+川西自驾攻略.md",
     "旅游攻略/杭州/杭州徒步-于谦祠至九溪.md",
     "旅游攻略/杭州/杭州徒步-九溪至满觉陇.md",
+    "旅游攻略/杭州/杭州徒步-于谦祠至满觉陇.md",
+    "旅游攻略/成都",
+    "旅游攻略/新建文件夹",
     "first.md",
     "2025新闻/1.国内/4月/06版经济 - 上扬！我国外贸首季平稳开局.md",
-    "旅游攻略/杭州/杭州徒步-于谦祠至满觉陇.md",
     "音乐.md",
     "2025新闻/2.国际/贸易战对美国的杀伤力远大于中国 - 纽约时报.md",
     "Clippings/利用 Hugo 與 Vercel 建立個人網頁.md",
@@ -215,7 +220,6 @@
     "2025新闻/未命名",
     "2025新闻/2.国际",
     "2025新闻/1.国内",
-    "2025新闻",
     "2.中医/1.倪海厦/针灸大成/人纪——针灸网友笔记.md",
     "markdown-syntax/index.md",
     "chinese-test/index.zh-cn.md",
@@ -223,7 +227,6 @@
     "个人/笔记/01版要闻 - 人形机器人加速进化.md",
     "2.中医/书/中医学习顺序.md",
     "[针灸大成/人纪——针灸（网友笔记）.md",
-    "[针灸大成",
     "个人/笔记/06版经济 - 上扬！我国外贸首季平稳开局.md",
     "markdown-syntax/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg",
     "chinese-test/florian-klauer-nptLmg6jqDo-unsplash.jpg",
@@ -234,8 +237,6 @@
     "1.古文观止笔记/0.古文观止笔记总览.md",
     "1.古文观止笔记/3.卷三章节卡片/1、祭公谏征犬戎.md",
     "1.古文观止笔记/2.卷二章节卡片/9、晏子不死君难.md",
-    "1.古文观止笔记/2.卷二章节卡片/8、子产告范宣子轻币.md",
-    "1.古文观止笔记/2.卷二章节卡片/7、祁奚请免叔向.md",
     "placeholder-text/matt-le-SJSpo9hQf7s-unsplash.jpg"
   ]
 }
