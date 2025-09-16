@@ -1,14 +1,17 @@
 ---
 title: 25十一成都+川西自驾Todo List
 aliases:
+categories:
   - 成都旅游
 tags:
   - 成都川西自驾
+description: 国庆放假川西自驾行程注意事项列表
 author: 行笃
-created: 2025-09-16
-last edit: 2025-09-16T11:09
-description:
+image: 
+date: 2025-09-16
+date modified: 2025-09-16
 ---
+
 ## 川西自驾准备 To-Do List（2025年10月1日-10月10日）
 
 ### 1. 租车准备（2025年9月前，提前1-2个月）
