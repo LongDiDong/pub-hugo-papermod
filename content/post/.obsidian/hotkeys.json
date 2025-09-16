@@ -6,5 +6,13 @@
       ],
       "key": "Q"
     }
+  ],
+  "editor:save-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
+    }
   ]
 }
