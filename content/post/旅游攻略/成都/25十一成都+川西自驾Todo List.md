@@ -7,10 +7,11 @@ tags:
   - 成都川西自驾
 description: 国庆放假川西自驾行程注意事项列表
 author: 行笃
-image: 
+image:
 date: 2025-09-16
 date modified: 2025-09-16
 ---
+
 
 ## 川西自驾准备 To-Do List（2025年10月1日-10月10日）
 
