@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "贸易战对美国的杀伤力远大于中国 - 纽约时报"
             }
-          },
-          {
-            "id": "e6111e1aa3f14e0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "旅游攻略/成都/25十一成都+川西自驾Todo List.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "25十一成都+川西自驾Todo List"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "旅游攻略/成都/25十一成都+川西自驾Todo List.md",
+                "file": "2025新闻/2.国际/贸易战对美国的杀伤力远大于中国 - 纽约时报.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "25十一成都+川西自驾Todo List 的大纲"
+              "title": "贸易战对美国的杀伤力远大于中国 - 纽约时报 的大纲"
             }
           },
           {
@@ -196,10 +181,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e6111e1aa3f14e0a",
+  "active": "c0eb4b16f8f56e75",
   "lastOpenFiles": [
-    "旅游攻略/成都/25十一成都+川西自驾Todo List.md",
+    "旅游攻略/成都/25国庆成都-川西自驾TodoList.md",
     "旅游攻略/成都/25十一成都+川西自驾攻略.md",
+    "旅游攻略/成都/25国庆成都-川西自驾攻略.md",
+    "旅游攻略/成都/25十一成都+川西自驾Todo List.md",
+    "旅游攻略/成都/25国庆成都-川西自驾Todo List.md",
     "旅游攻略/杭州/杭州徒步-于谦祠至九溪.md",
     "旅游攻略/杭州/杭州徒步-九溪至满觉陇.md",
     "旅游攻略/成都/未命名.md",
@@ -234,9 +222,6 @@
     "chinese-test/helena-hertz-wWZzXlDpMog-unsplash.jpg",
     "顺序.md",
     "人纪——针灸（网友笔记）.md",
-    "2.中医/书/目录.md",
-    "1.古文观止笔记/0.古文观止笔记总览.md",
-    "1.古文观止笔记/3.卷三章节卡片/1、祭公谏征犬戎.md",
     "placeholder-text/matt-le-SJSpo9hQf7s-unsplash.jpg"
   ]
 }
