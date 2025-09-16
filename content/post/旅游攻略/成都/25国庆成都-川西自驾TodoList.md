@@ -1,5 +1,5 @@
 ---
-title: 25十一成都+川西自驾Todo List
+title: 25国庆成都-川西自驾TodoList
 aliases:
 categories:
   - 成都旅游
