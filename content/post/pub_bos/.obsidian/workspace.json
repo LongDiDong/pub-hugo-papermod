@@ -11,14 +11,10 @@
             "id": "c0eb4b16f8f56e75",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "旅游攻略/成都/25国庆成都-川西自驾攻略.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "25国庆成都-川西自驾攻略"
+              "title": "新标签页"
             }
           }
         ]
@@ -142,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "旅游攻略/成都/25国庆成都-川西自驾TodoList.md",
+                "file": "旅游攻略/成都/25国庆成都-川西自驾攻略.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "25国庆成都-川西自驾TodoList 的大纲"
+              "title": "25国庆成都-川西自驾攻略 的大纲"
             }
           },
           {
@@ -180,8 +176,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c0eb4b16f8f56e75",
+  "active": "dd1029557f8f2496",
   "lastOpenFiles": [
+    "pub_bos/first.md",
+    "pub_bos/旅游攻略/杭州/杭州徒步-于谦祠至满觉陇.md",
+    "pub_bos/旅游攻略/杭州/杭州徒步-于谦祠至九溪.md",
+    "pub_bos/旅游攻略/杭州/杭州徒步-九溪至满觉陇.md",
+    "pub_bos/旅游攻略/成都/25国庆成都-川西自驾TodoList.md",
+    "pub_bos/旅游攻略/成都/25国庆成都-川西自驾攻略.md",
+    "pub_bos/旅游攻略/杭州",
+    "pub_bos/旅游攻略/成都",
+    "pub_bos/旅游攻略",
+    "pub_bos/2025新闻/1.国内/4月/06版经济 - 上扬！我国外贸首季平稳开局.md",
+    "pub_bos/2025新闻/1.国内/4月/01版要闻 - 人形机器人加速进化.md",
+    "pub_bos/2025新闻/1.国内/4月",
+    "pub_bos/2025新闻/2.国际/贸易战对美国的杀伤力远大于中国 - 纽约时报.md",
+    "pub_bos/2025新闻/1.国内",
+    "pub_bos/2025新闻/2.国际",
+    "pub_bos/2025新闻",
+    "pub_bos/欢迎.md",
+    "pub_bos",
     "旅游攻略/杭州/杭州徒步-于谦祠至满觉陇.md",
     "旅游攻略/成都/25国庆成都-川西自驾攻略.md",
     "first.md",
@@ -198,29 +212,11 @@
     "旅游攻略/新建文件夹",
     "音乐.md",
     "Clippings/利用 Hugo 與 Vercel 建立個人網頁.md",
-    "Clippings",
-    "旅游攻略/杭州",
-    "旅游攻略",
-    "14. 陶喆 - 桂冠英雄 Heroes.flac",
     "2025新闻/1.国内/4月/01版要闻 - 人形机器人加速进化.md",
-    "2025新闻/1.国内/4月",
     "2.中医/1.倪海厦/倪海厦体系顺序.md",
-    "2025新闻/未命名",
-    "2025新闻/2.国际",
-    "2025新闻/1.国内",
-    "2.中医/1.倪海厦/针灸大成/人纪——针灸网友笔记.md",
-    "markdown-syntax/index.md",
-    "chinese-test/index.zh-cn.md",
-    "emoji-support/index.md",
-    "个人/笔记/01版要闻 - 人形机器人加速进化.md",
-    "2.中医/书/中医学习顺序.md",
-    "[针灸大成/人纪——针灸（网友笔记）.md",
-    "个人/笔记/06版经济 - 上扬！我国外贸首季平稳开局.md",
     "markdown-syntax/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg",
     "chinese-test/florian-klauer-nptLmg6jqDo-unsplash.jpg",
     "chinese-test/helena-hertz-wWZzXlDpMog-unsplash.jpg",
-    "顺序.md",
-    "人纪——针灸（网友笔记）.md",
     "placeholder-text/matt-le-SJSpo9hQf7s-unsplash.jpg"
   ]
 }
