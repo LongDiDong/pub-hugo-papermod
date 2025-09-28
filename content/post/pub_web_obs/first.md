@@ -1,20 +1,21 @@
 ---
+cssclasses:
 title: first
-aliases: 
 categories:
   - 通用技术
 tags:
   - 博客搭建
-description: 
-author: 
-image: 
-date: 2025-04-24
-date modified: 2025-07-10
 cover:
   image: <https://amown.cn/PicGo/cover.png>
   alt: <alt text>
   caption: text
   relative: false
+description: 
+author: 
+date: 2025-04-24
+date modified: 2025-09-28
+aliases: 
+image: 
 ---
 
 # first
@@ -53,3 +54,5 @@ for(i= 0; i < 5;)
 ```
 
 {{< /collapse >}}
+
+*[引用测试](first.md)*
