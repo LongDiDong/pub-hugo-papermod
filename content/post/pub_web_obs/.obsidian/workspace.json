@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "旅游攻略/成都/25国庆川西自驾Todo.md",
+                "file": "旅游攻略/成都/25成都川西要点总结.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "25国庆川西自驾Todo"
+              "title": "25成都川西要点总结"
+            }
+          },
+          {
+            "id": "04a7b7d251456c08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "first.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "first"
             }
           }
         ]
@@ -182,11 +196,11 @@
   },
   "active": "d11181b1c7189b95",
   "lastOpenFiles": [
-    "旅游攻略/成都/25成都川西要点总结.md",
-    "摄影参数/1.星空摄影/延时摄影要点.md",
-    "旅游攻略/成都/25国庆川西自驾Todo.md",
-    "摄影参数/1.星空摄影/星空摄影参数.md",
     "first.md",
+    "旅游攻略/成都/25成都川西要点总结.md",
+    "旅游攻略/成都/25国庆川西自驾Todo.md",
+    "摄影参数/1.星空摄影/延时摄影要点.md",
+    "摄影参数/1.星空摄影/星空摄影参数.md",
     "摄影参数/1.星空摄影",
     "摄影参数",
     "2025新闻/2.国际/贸易战对美国的杀伤力远大于中国 - 纽约时报.md",
