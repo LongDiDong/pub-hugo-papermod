@@ -15,7 +15,7 @@
               "state": {
                 "file": "旅游攻略/成都/25成都川西要点总结.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "25成都川西要点总结"
@@ -196,9 +196,9 @@
   },
   "active": "d11181b1c7189b95",
   "lastOpenFiles": [
-    "first.md",
-    "旅游攻略/成都/25成都川西要点总结.md",
     "旅游攻略/成都/25国庆川西自驾Todo.md",
+    "旅游攻略/成都/25成都川西要点总结.md",
+    "first.md",
     "摄影参数/1.星空摄影/延时摄影要点.md",
     "摄影参数/1.星空摄影/星空摄影参数.md",
     "摄影参数/1.星空摄影",
