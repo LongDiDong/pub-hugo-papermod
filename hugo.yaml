@@ -1,9 +1,9 @@
 # ~~~~~~~~~
 # hugo 本身的配置
 # ~~~~~~~~~
-baseURL: "https://pblog.amown.cn/" # 主站的 URL
+baseURL: "https://pblog.vynora.cn/" # 主站的 URL
 title: 云崖小栈 # 站点标题
-copyright: "[©2025 云崖小栈](https://pblog.amown.cn/)" # 网站的版权声明，通常显示在页脚
+copyright: "[©2025 云崖小栈](https://pblog.vynora.cn/)" # 网站的版权声明，通常显示在页脚
 pagination.pagerSize: 7 # 首页的分页大小
 theme: PaperMod # 主题
 languageCode: zh-cn # 语言
@@ -19,6 +19,9 @@ enableEmoji: true # 允许 emoji
 pygmentsUseClasses: true
 defaultContentLanguage: zh # 顶部首先展示的语言界面
 defaultContentLanguageInSubdir: false # 是否要在地址栏加上默认的语言代码
+# 排除 Obsidian 配置目录，避免进入构建产物
+ignoreFiles:
+  - '.*\\.obsidian/.*'
 
 languages:
   zh:

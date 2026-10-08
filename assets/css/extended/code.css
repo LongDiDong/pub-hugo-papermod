@@ -1,19 +1,43 @@
-@font-face {
-  font-family: "huakangshouzhaw5";
-  src: url("/fonts/huakangshouzhaw5.ttf");
-}
-
-/* https://www.webfontfree.com/cn/download/SFProText-Regular */
+/* 正文西文：体积小 */
 @font-face {
   font-family: "SFProText-Regular";
-  src: url("/fonts/SFProText-Regular.woff2");
+  src: url("/fonts/SFProText-Regular.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* 中文：用已有的 woff2 子集，替代 5.9MB 的 TTF，避免 FOIT 全黑 */
+@font-face {
+  font-family: "LXGWWenKaiScreen";
+  src: url("/fonts/lxgwwenkaiscreen.subset.v1.235.standard.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* 代码字体本地化，避免依赖 Google Fonts */
+@font-face {
+  font-family: "ConsolasLocal";
+  src: url("/fonts/Consolas.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 400;
+  font-style: normal;
 }
 
 body {
-  font-family: "SFProText-Regular", "huakangshouzhaw5";
+  font-family: "SFProText-Regular", "LXGWWenKaiScreen", -apple-system, BlinkMacSystemFont,
+    "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
   font-size: 16px;
   line-height: 1.6;
   word-break: break-word;
   background: var(--theme);
-  font-display: swap;
+}
+
+code,
+pre,
+.highlight,
+.chroma {
+  font-family: "ConsolasLocal", "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas,
+    monospace;
 }

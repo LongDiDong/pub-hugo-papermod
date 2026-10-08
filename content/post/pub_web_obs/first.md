@@ -5,6 +5,7 @@ categories:
   - 通用技术
 tags:
   - 博客搭建
+math: true
 cover:
   image: <https://amown.cn/PicGo/cover.png>
   alt: <alt text>

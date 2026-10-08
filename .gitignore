@@ -22,3 +22,9 @@ yarn-debug.log
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Obsidian vault metadata (plugins/themes/workspace) #
+**/.obsidian/
+
+# Serena IDE project metadata #
+.serena/
