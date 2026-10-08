@@ -1,33 +1,8 @@
-/* 正文西文：体积小 */
-@font-face {
-  font-family: "SFProText-Regular";
-  src: url("/fonts/SFProText-Regular.woff2") format("woff2");
-  font-display: swap;
-  font-weight: 400;
-  font-style: normal;
-}
-
-/* 中文：用已有的 woff2 子集，替代 5.9MB 的 TTF，避免 FOIT 全黑 */
-@font-face {
-  font-family: "LXGWWenKaiScreen";
-  src: url("/fonts/lxgwwenkaiscreen.subset.v1.235.standard.woff2") format("woff2");
-  font-display: swap;
-  font-weight: 400;
-  font-style: normal;
-}
-
-/* 代码字体本地化，避免依赖 Google Fonts */
-@font-face {
-  font-family: "ConsolasLocal";
-  src: url("/fonts/Consolas.woff2") format("woff2");
-  font-display: swap;
-  font-weight: 400;
-  font-style: normal;
-}
-
+/* 系统字体优先：不下载自定义字体，国内首屏更快 */
 body {
-  font-family: "SFProText-Regular", "LXGWWenKaiScreen", -apple-system, BlinkMacSystemFont,
-    "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC",
+    "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", "Source Han Sans SC",
+    "WenQuanYi Micro Hei", sans-serif;
   font-size: 16px;
   line-height: 1.6;
   word-break: break-word;
@@ -38,6 +13,6 @@ code,
 pre,
 .highlight,
 .chroma {
-  font-family: "ConsolasLocal", "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas,
-    monospace;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
+    "Courier New", monospace;
 }
